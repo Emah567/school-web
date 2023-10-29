@@ -1,9 +1,9 @@
 :root{
     --background: #4169E1;
-    --color: #333333;
+    --color: #fff;
     --in-color: #070707;
-    --in-grey: rgb(43, 39, 39);
-    --grey: rgb(139, 135, 135);
+    --in-grey: grey;
+    --grey: #e9e7e7;
     --box-color: #C0C0C0;
 
     /* --background: #2E2E2E; */
