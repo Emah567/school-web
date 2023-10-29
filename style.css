@@ -1,35 +1,13 @@
 :root{
-    --background: #4169E1;
-    --color: #fff;
+ --background: #e3e6fd;
+    --color: #333333;
     --in-color: #070707;
-    --in-grey: grey;
-    --grey: #e9e7e7;
-    --box-color: #C0C0C0;
-
-    /* --background: #2E2E2E; */
-    /* --color: #FFFFF0; */
+    --in-grey: rgb(43, 39, 39);
+    --grey: rgb(139, 135, 135);
+    --box-color: #fff3f3;
    } 
 
-   /*
-   --background: #3D3D3D;
-    --color: #F5F5DC;
-    --grey: rgb(139, 135, 135);
-    --box-color: #BFAF80;
 
-   --background: #212121;
-    --color: #FAFAD2;
-    --grey: rgb(139, 135, 135);
-    --box-color: #B8860B;
-
-
-   
-   #FFD700 GOLD
-     --background: #1A237E;
-    --color: #FFFFFF;
-    --grey: rgb(139, 135, 135);
-    --box-color: #FFD700;
-   
-   */
     
     
     
